@@ -1,0 +1,3 @@
+# MVCProyecto
+Es una prueba de MVC
+Es una tecnologia de ultima generacion.......
